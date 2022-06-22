@@ -1,6 +1,6 @@
 name: dropdown_picker
 description: Dropdown picker for local and remote data, single and multi select.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/salihagic/dropdown_picker
 
 environment:
